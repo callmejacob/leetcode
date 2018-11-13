@@ -230,6 +230,7 @@ shared_ptr<json_object> parse_json_object(const char*& p) {
     return result;
 }
 
+/*
 // test
 int main(int argc, char** argv) {
     string json_str = "    {"
@@ -249,3 +250,4 @@ int main(int argc, char** argv) {
 
     return 0;
 }
+*/
